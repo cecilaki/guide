@@ -3,7 +3,7 @@
 title: Theme 1 - Faciliter la libre circulation des idées par le droit d’accès à l’information # Define a title of your page
 description: Donner l’accès à l’information est un moyen de favoriser la transparence, l’intégrité et la redevabilité ainsi que l’ouverture des données. L’accès à l’information constitue l’un des quatre critères d’éligibilité au PGO. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 0 # Define order of this page in list of all documentation documents
+order: 1 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
@@ -11,8 +11,6 @@ hero:
     text: Donner l’accès à l’information est un moyen de favoriser la transparence, l’intégrité et la redevabilité ainsi que l’ouverture des données. L’accès à l’information constitue l’un des quatre critères d’éligibilité au PGO.
     
 ---
-
-# Thème 1 - Faciliter la libre circulation des idées par le droit d’accès à l’information
 
 ## Pourquoi ?
 
@@ -28,9 +26,9 @@ Pour accéder au PGO, les pays doivent avoir une loi sur l’accès à l’infor
 
 ### Mesure de ce critère dans le cadre du PGO :
 
-**4 points** sont attribués aux pays disposant d'une législation sur l'accès à l'information 
-**3 points** sont attribués aux pays ayant une disposition constitutionnelle garantissant l'accès à l'information 
-1 point est attribué aux pays ayant un projet de loi sur l'accès à l'information en cours d'examen
+* **4 points** sont attribués aux pays disposant d'une législation sur l'accès à l'information 
+* **3 points** sont attribués aux pays ayant une disposition constitutionnelle garantissant l'accès à l'information 
+* **1 point** est attribué aux pays ayant un projet de loi sur l'accès à l'information en cours d'examen
 
 Les pays ayant à la fois une disposition constitutionnelle et un projet de loi à l'examen se verront attribuer 3 points pour la disposition constitutionnelle. 
 
