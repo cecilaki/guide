@@ -15,12 +15,12 @@ hero:
           url: http://example.com
           external_url: true # Set to "false" if you're pointing to inner page
           style: filled # Choose style: "filled" or "bordered"
-          icon: github # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
-        - label: Button — Bordered with icon
+          icon: book-open # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
+        - label: Pourquoi ce guide 
           url: /documentation
           external_url: false
           style: bordered
-          icon: gitlab
+          icon: globe
     download_link: # Set small download link placed below buttons
         label: Telecharger le guide
         url: https://www.cfi.fr/fr/projet/pagof
