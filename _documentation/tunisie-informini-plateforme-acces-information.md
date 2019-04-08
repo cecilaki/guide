@@ -4,10 +4,14 @@ layout: default # Choose layout: "default", "homepage" or "documentation-archive
 title: Tunisie — Plateforme Informini # Define a title of your page
 description: Default layout — Description # Define a description of your page
 keywords: # Define keywords for search engines
-comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
----
+order: 2 # Define order of this page in list of all documentation documents
 
-# Tunisie - Mise en place d’Informini, plateforme de demande d’accès à l’information 
+# Hero section
+hero:
+    title: Tunisie - Mise en place d’Informini, plateforme de demande d’accès à l’information
+    text: Prout
+    
+---
 
 ## Contexte
 
