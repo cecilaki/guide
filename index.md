@@ -36,10 +36,10 @@ features:
                 icon: box # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
               - title: Maroc - De l’adoption à la mise en œuvre
                 description: L’expérience marocaine est un cas exemplaire de par la consultation permanente de la société civile tout au long du processus de construction de la loi d’accès à l’information.
-                icon: server
+                icon: pen-tool
               - title: Senegal — Pour une loi spécifique
                 description: Bien qu’étant un droit consacré par la constitution sénégalaise, l’accès à l’information ne fait pas l’objet d’une loi spécifique dans le pays.
-                icon: cpu
+                icon: eye
         - title: Features row 2 — Title
           description: Features row 2 — Description
           grid:
