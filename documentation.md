@@ -9,10 +9,9 @@ keywords: # Define keywords for search engines
 hero:
     title: Guide des bonnes pratiques 
     text: Le premier séminaire régional PAGOF s’est déroulé à Tunis en novembre 2018 et a permis de rassembler des représentants de 15 pays d’Afrique francophone afin de partager les bonnes pratiques et expériences réussies liées au gouvernement ouvert. Il contribue également à valoriser les ressources existantes en langue française. Ce guide est une synthèse des expériences relatées, des discussions et des échanges tenus pendant l’évènement. Il s’est intéressé à cinq thèmes en particulier.
-    
- # Features section
-features:
-    rows: # Add feature rows below, there are examples with all available options
+
+# Rows    
+rows: # Add feature rows below, there are examples with all available options
         - title: Theme 1 - Faciliter la libre circulation des idées par le droit d’accès à l’information
           description: Donner l’accès à l’information est un moyen de favoriser la transparence, l’intégrité et la redevabilité ainsi que l’ouverture des données. L’accès à l’information constitue l’un des quatre critères d’éligibilité au PGO.
           grid: # Add feature grid items below, there are examples with all available options
