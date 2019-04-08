@@ -7,7 +7,7 @@ keywords: # Define keywords for search engines
 
 # Hero section
 hero:
-    title: #Pagof - Guide des bonnes pratiques
+    title: Pagof - Guide des bonnes pratiques
     text: Expériences réussies du gouvernement ouvert en Afrique francophone
     background_image: # Paste image URL to display image in background of hero section
     buttons: # Add buttons below, there are examples with all available options
