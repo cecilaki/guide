@@ -1,7 +1,7 @@
 ---
 # Page settings
 title: Tunisie — Plateforme Informini # Define a title of your page
-description: Default layout — Description # Define a description of your page
+description: Plateforme de demande d’accès à l’information en ligne pour les citoyens # Define a description of your page
 keywords: # Define keywords for search engines
 order: 2 # Define order of this page in list of all documentation documents
 
