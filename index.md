@@ -28,11 +28,11 @@ hero:
 # Features section
 features:
     rows: # Add feature rows below, there are examples with all available options
-        - title: Features row 1 — Title
-          description: Features row 1 — Description
+        - title: Theme 1 - Faciliter la libre circulation des idées par le droit d’accès à l’information
+          description: L’accès à l’information constitue l’un des quatre critères d’éligibilité au PGO
           grid: # Add feature grid items below, there are examples with all available options
-              - title: Feature 1 — Title
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
+              - title: Tunisie - Informini, plateforme de demande d’accès à l’information 
+                description: La plateforme Informini permet de faire une demande d’accès simplifiée à des informations détenues par une organisation publique tunisienne.
                 icon: box # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
               - title: Feature 2 — Title
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
