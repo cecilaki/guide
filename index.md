@@ -53,10 +53,10 @@ features:
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
                 icon: monitor
     footer: # Set features section footer variables
-        title: Features footer — Title
-        description: Features footer — Description
+        title: Ressources complémentaires
+        description: Outils d'animation, presentations PPT, liens utiles, retrouvez ici toutes les ressources pour compléter votre lecture du guide des bonnes pratiques.
         buttons: # Add buttons below, there are examples with all available options
-            - label: Button — Filled
+            - label: Voir les ressources
               url: http://example.com
               external_url: true # Set to "false" if you're pointing to inner page
               style: filled # Choose style: "filled" or "bordered"
