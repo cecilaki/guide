@@ -7,11 +7,11 @@ keywords: # Define keywords for search engines
 
 # Hero section
 hero:
-    title: Pagof - Guide des bonnes pratiques
-    text: Hero section — Text
+    title: Guide des bonnes pratiques
+    text: Expériences réussies du gouvernement ouvert en Afrique francophone
     background_image: # Paste image URL to display image in background of hero section
     buttons: # Add buttons below, there are examples with all available options
-        - label: Button — Filled with icon
+        - label: Lire le guide
           url: http://example.com
           external_url: true # Set to "false" if you're pointing to inner page
           style: filled # Choose style: "filled" or "bordered"
@@ -22,8 +22,8 @@ hero:
           style: bordered
           icon: gitlab
     download_link: # Set small download link placed below buttons
-        label: Download — v4.0.0
-        url: https://example.com
+        label: Telecharger le guide
+        url: https://www.cfi.fr/fr/projet/pagof
 
 # Features section
 features:
