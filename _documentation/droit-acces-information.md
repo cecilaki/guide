@@ -7,7 +7,7 @@ order: 1 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
-    title: Theme 1 - Faciliter la libre circulation des idées par le droit d’accès à l’information
+    title: Theme 1 - Description
     text: Donner l’accès à l’information est un moyen de favoriser la transparence, l’intégrité et la redevabilité ainsi que l’ouverture des données. L’accès à l’information constitue l’un des quatre critères d’éligibilité au PGO.
     
 ---
