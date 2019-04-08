@@ -34,14 +34,14 @@ features:
               - title: Tunisie - Informini, plateforme de demande d’accès à l’information 
                 description: La plateforme Informini permet de faire une demande d’accès simplifiée à des informations détenues par une organisation publique tunisienne.
                 icon: box # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
-              - title: Maroc - De l’adoption à la mise en œuvre
+              - title: Maroc - De l’adoption à la mise en œuvre de la loi d'accès à l'information
                 description: L’expérience marocaine est un cas exemplaire de par la consultation permanente de la société civile tout au long du processus de construction de la loi d’accès à l’information.
                 icon: pen-tool
-              - title: Senegal — Pour une loi spécifique
+              - title: Senegal — Pour une loi spécifique d'accès à l'information
                 description: Bien qu’étant un droit consacré par la constitution sénégalaise, l’accès à l’information ne fait pas l’objet d’une loi spécifique dans le pays.
                 icon: eye
-        - title: Features row 2 — Title
-          description: Features row 2 — Description
+        - title: Theme 2 - Transparence et bonne gouvernance financière
+          description: La publication des documents fondamentaux relatifs à la dépense publique et leur mise à jour régulière constituent les éléments de base d'un système budgétaire responsable, transparent et ouvert. Il s’agit d’un des critères d’éligibilité essentiel pour l’adhésion au PGO.
           grid:
               - title: Feature 1 — Title
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
