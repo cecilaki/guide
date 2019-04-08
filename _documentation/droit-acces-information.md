@@ -4,7 +4,13 @@ layout: default # Choose layout: "default", "homepage" or "documentation-archive
 title: Theme 1 - Faciliter la libre circulation des idées par le droit d’accès à l’information # Define a title of your page
 description: Donner l’accès à l’information est un moyen de favoriser la transparence, l’intégrité et la redevabilité ainsi que l’ouverture des données. L’accès à l’information constitue l’un des quatre critères d’éligibilité au PGO. # Define a description of your page
 keywords: # Define keywords for search engines
-comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
+order: 0 # Define order of this page in list of all documentation documents
+
+# Hero section
+hero:
+    title: Theme 1 - Faciliter la libre circulation des idées par le droit d’accès à l’information
+    text: Donner l’accès à l’information est un moyen de favoriser la transparence, l’intégrité et la redevabilité ainsi que l’ouverture des données. L’accès à l’information constitue l’un des quatre critères d’éligibilité au PGO.
+    
 ---
 
 # Thème 1 - Faciliter la libre circulation des idées par le droit d’accès à l’information
