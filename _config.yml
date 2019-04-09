@@ -31,6 +31,7 @@ dox:
 collections:
     documentation:
         output: true
+        permalink: /guide/:path
 
 # Defining defaults
 defaults:
