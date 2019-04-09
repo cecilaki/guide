@@ -31,7 +31,6 @@ dox:
 collections:
     documentation:
         output: true
-        directory: guide/documentation/
 
 # Defining defaults
 defaults:
