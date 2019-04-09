@@ -11,7 +11,7 @@ dox:
         nav:
             - item_name: Accueil
               item_url: /
-            - item_name: Default Layout
+            - item_name: Ressources
               item_url: /default
         cta:
             label: Guide
