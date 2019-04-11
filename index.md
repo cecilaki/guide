@@ -12,7 +12,7 @@ hero:
     background_image: # Paste image URL to display image in background of hero section
     buttons: # Add buttons below, there are examples with all available options
         - label: Lire le guide
-          url: http://example.com
+          url: https://cecilaki.github.io/guide/documentation/
           external_url: true # Set to "false" if you're pointing to inner page
           style: filled # Choose style: "filled" or "bordered"
           icon: book-open # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
