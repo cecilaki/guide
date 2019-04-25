@@ -28,13 +28,13 @@ dox:
         disqus_forum_shortname: # Add your Disqus forum shortname to activate comments site-wide
 
 # Defining collections
+
 collections:
-    documentation:
+   - documentation:
         output: true
-    ressources:
-        output: true
-     themes:
-        output: true   
+  - ressources
+  - theme
+ 
 
 # Defining defaults
 defaults:
