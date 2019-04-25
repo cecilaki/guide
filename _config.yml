@@ -31,6 +31,10 @@ dox:
 collections:
     documentation:
         output: true
+    ressources:
+        output: true
+     themes:
+        output: true   
 
 # Defining defaults
 defaults:
