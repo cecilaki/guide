@@ -8,6 +8,6 @@ keywords: # Define keywords for search engines
 # Hero section
 hero:
     title: Test Page liste des Ressources au pluriel
-    text:  Toutes ces ressources c'est fou !
+    text:  Toutes ces ressources, ou resource avec un seul s dans l'archive c'est fou !
     
 ---
