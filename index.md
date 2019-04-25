@@ -24,8 +24,6 @@ hero:
     download_link: # Set small download link placed below buttons
         label: Telecharger le guide
         url: https://www.cfi.fr/fr/projet/pagof
-        
-        {% include youtubePlayer.html id=page.lc2cjGkVBe0 %}
 
 # Features section
 features:
