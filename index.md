@@ -27,7 +27,7 @@ hero:
        
 # Video
 youtubePlayer: 
-     id: lc2cjGkVBe0
+     id: page.lc2cjGkVBe0
 
 # Features section
 features:
