@@ -26,7 +26,8 @@ hero:
         url: https://www.cfi.fr/fr/projet/pagof
        
 # Video
-youtubePlayer: lc2cjGkVBe0
+youtubePlayer: 
+     id: lc2cjGkVBe0
 
 # Features section
 features:
