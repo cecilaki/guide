@@ -32,13 +32,13 @@ dox:
 collections:
      documentation:
         output: true
-
+        
      themes:
         output: true
         
-    ressources:
+     ressources:
         output: true
- 
+       
 
 # Defining defaults
 defaults:
