@@ -26,8 +26,7 @@ hero:
         url: https://www.cfi.fr/fr/projet/pagof
        
 # Video
-youtubePlayer:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lc2cjGkVBe0" frameborder="0" allowfullscreen></iframe>
+youtubePlayer: <iframe width="560" height="315" src="https://www.youtube.com/embed/lc2cjGkVBe0" frameborder="0" allowfullscreen></iframe>
 
 # Features section
 features:
