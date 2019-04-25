@@ -1,5 +1,6 @@
 ---
 # Page settings
+layout: ressource-single
 title: Ressources du theme 1 # Define a title of your page
 description: Ressource single — Description # Define a description of your page
 keywords: # Define keywords for search engines
