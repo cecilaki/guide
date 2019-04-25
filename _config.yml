@@ -48,6 +48,13 @@ defaults:
             type: 'documentation'
         values:
             layout: 'documentation-single'
+            
+    -
+        scope:
+            path: ''
+            type: 'ressources'
+        values:
+            layout: 'ressource-single'   
 
 # SASS settings
 sass:
