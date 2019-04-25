@@ -1,11 +1,11 @@
-{% if site.ressource %}
+{% if site.ressources %}
 	<div class="{{ include.classes }}">
 		<div class="o-container">
 			<div class="o-row">
 				<div class="o-col-12">
 					<div class="o-row">
-						{% assign ressource = site.ressource | sort: 'order' %}
-						{% for document in ressource %}
+						{% assign ressources = site.ressources | sort: 'order' %}
+						{% for document in ressources %}
 							<div class="o-col-6@lg u-mb-3">
 								<a href="{{ site.baseurl }}{{ document.url }}" class="c-feature-card c-feature-card--large">
 									<div class="c-feature-card__content">
