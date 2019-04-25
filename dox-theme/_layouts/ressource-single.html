@@ -2,7 +2,7 @@
 
 {% include hero.html classes='u-bg-gray-30 u-pt-16 u-pb-10' %}
 
-{% if page.content or site.ressource %}
+{% if page.content or site.ressources %}
 	<div class="u-pt-8 u-pb-5">
 		<div class="o-container">
 			<div class="o-row">
@@ -14,10 +14,10 @@
 						</div><!-- /.c-post -->
 					</div><!-- /.o-col -->
 				{% endif %}
-				{% if site.ressource %}
+				{% if site.ressources %}
 					<div class="o-col-3@lg o-offset-1@lg o-offset-2@xl">
 						<ul class="c-page-nav u-sticky u-pin-t-6 u-mt-4 u-mt-1@lg u-mb-1 u-mb-4@lg">
-							{% assign ressource = site.ressource | sort: 'order' %}
+							{% assign ressources = site.ressources | sort: 'order' %}
 							{% for document in ressource %}
 								{% if page.order >= document.order %}
 									<li class="is-active">
@@ -41,15 +41,15 @@
 	</div>
 {% endif %}
 
-{% assign ressource_size = site.ressource | size %}
+{% assign ressources_size = site.ressources | size %}
 {% if ressource_size > 1 %}
 	<div class="u-bg-primary u-text-white u-pt-3 u-pt-4@sm u-pb-3 u-pb-4@sm">
 		<div class="o-container">
 			<div class="o-row">
 				<div class="o-col-12 u-text-center">
 					<div class="u-inline-block u-flex@sm">
-						{% assign ressource = site.ressource | sort: 'order' %}
-						{% for document in ressource %}
+						{% assign ressources = site.ressources | sort: 'order' %}
+						{% for document in ressources %}
 							{% assign next_document = document.order | minus: 1 %}
 							{% assign previous_document = document.order | plus: 1 %}
 							{% if next_document == page.order %}
@@ -65,8 +65,8 @@
 	</div>
 {% endif %}
 
-{% assign ressource_size = site.ressource | size %}
-{% if ressource_size > 1 %}
+{% assign ressources_size = site.ressources | size %}
+{% if ressources_size > 1 %}
 	{% include footer.html %}
 {% else %}
 	{% include footer.html bordered=true %}
