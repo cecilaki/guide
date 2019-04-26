@@ -54,7 +54,7 @@ defaults:
             path: ''
             type: 'ressources'
         values:
-            layout: 'ressource-single'   
+            layout: 'ressources-single'   
 
 # SASS settings
 sass:
