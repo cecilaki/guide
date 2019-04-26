@@ -4,7 +4,13 @@ layout: default # Choose layout: "default", "homepage" or "documentation-archive
 title: Ressources complémentaires # Define a title of your page
 description: Retrouvez ici les présentations proposées durant le séminaire, ainsi que les liens web vers les outils, projets et ressources qui ont été mentionnées lors des discussions. # Define a description of your page
 keywords: # Define keywords for search engines
+order: 1 # Define order of this page in list of all documentation documents
 
+# Hero section
+hero:
+    title: Theme 1 - Ressources Faciliter la libre circulation des idées par le droit d’accès à l’information
+    text: Donner l’accès à l’information est un moyen de favoriser la transparence, l’intégrité et la redevabilité ainsi que l’ouverture des données. L’accès à l’information constitue l’un des quatre critères d’éligibilité au PGO.
+ 
 ---
 
 ## Thème 1 : Faciliter la libre circulation des idées par le droit d’accès à l’information
