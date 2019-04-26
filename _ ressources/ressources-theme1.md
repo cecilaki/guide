@@ -1,6 +1,6 @@
 ---
 # Page settings
-layout: default # Choose layout: "default", "homepage" or "documentation-archive"
+layout: ressources-single # Choose layout: "default", "homepage" or "documentation-archive"
 title: Ressources complémentaires # Define a title of your page
 description: Retrouvez ici les présentations proposées durant le séminaire, ainsi que les liens web vers les outils, projets et ressources qui ont été mentionnées lors des discussions. # Define a description of your page
 keywords: # Define keywords for search engines
