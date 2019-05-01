@@ -18,7 +18,7 @@
 					<div class="o-col-3@lg o-offset-1@lg o-offset-2@xl">
 						<ul class="c-page-nav u-sticky u-pin-t-6 u-mt-4 u-mt-1@lg u-mb-1 u-mb-4@lg">
 							{% assign ressources = site.ressources | sort: 'order' %}
-							{% for document in ressource %}
+							{% for document in ressources %}
 								{% if page.order >= document.order %}
 									<li class="is-active">
 										<a href="{{ site.baseurl }}{{ document.url }}">
