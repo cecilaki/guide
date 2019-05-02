@@ -26,7 +26,7 @@ hero:
 **Le livret du participant**, séminaire régional #PAGOF
 Vous pouvez [télécharger le livret du participant ici](https://drive.google.com/open?id=1HkE_Exrpy_fklR0J-Va2JXEpANXGx32I)
 
-![livret à télécharger](https://cecilaki.github.io/guide/dox-theme/assets/images/livret-participant-cover.png | width=150)
+![livret à télécharger](https://cecilaki.github.io/guide/dox-theme/assets/images/livret-participant-cover.png|width=150)
 
 
 #### La page youtube #PAGOF 
