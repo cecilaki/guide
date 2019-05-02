@@ -15,7 +15,7 @@ hero:
 
 ## Ressources pratiques pour animer des ateliers 
 
-### Oganiser un séminaire d'imprégnation et d'échanges sur le gouvernement ouvert 
+### Organiser un séminaire d'imprégnation et d'échanges sur le gouvernement ouvert 
 
 Si vous souhaitez vulgariser la notion et les principes de la gouvernance ouverte, mobiliser les acteurs autour de réflexions concrètes afin d'effectuer un plaidoyer en faveur du gouvernement ouvert, vous pouvez organiser un atelier collaboratif où les participants formeront des petits groupes de travail. 
 
