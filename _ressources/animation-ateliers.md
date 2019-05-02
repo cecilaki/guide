@@ -31,9 +31,7 @@ pratiques connues en Afrique francophone ;
 
 ![fiche à télécharger](../dox-theme/assets/images/atelier-impregnation-gouvernement-ouvert.png)
 
-### 2 - Organiser un atelier d'écriture d'engagements du PAN
-
-### Outils participatifs de co-création d'engagements 
+### 2 - Outils participatifs de co-création d'engagements du PAN
 
 Comment aider les citoyens, le gouvernement, la société civile et le secteur privé à travailler ensemble une vision commune de la bonne gouvernance pour le 21ème siècle ?
 
@@ -49,6 +47,6 @@ Cette fiche, élaborée d'abord en anglais par [l'organisation New-Yorkaise Rebo
 
 Vous pouvez télécharger le fichier PDF de la fiche «Écriture collaborative d'engagements pour un gouvernement ouvert» à l’adresse suivante:
 
-![fiche à télécharger](../guide/dox-theme/assets/images/atelier-impregnation-gouvernement-ouvert.png)
+![fiche à télécharger](https://cecilaki.github.io/guide/dox-theme/assets/images/atelier-ecriture-engagement.png)
 
 
