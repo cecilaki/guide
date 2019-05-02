@@ -29,7 +29,9 @@ La fiche d'animation proposée ici prévoit que chaque groupe de travail puisse 
 pratiques connues en Afrique francophone ; 
 * identifier et proposer des actions envisageables à court et à long terme, ainsi que les principaux acteurs impliqués et la méthode à adopter. 
 
-![fiche à télécharger](../dox-theme/assets/images/atelier-impregnation-gouvernement-ouvert.png)
+Vous pouvez télécharger le fichier PDF de la fiche «Session d'impégnation au Gouvernement Ouvert» [ici](https://cecilaki.github.io/guide/dox-theme/assets/images/S'IMPREGNER DU GOUVERNEMENT OUVERT.pdf)
+
+![fiche à télécharger](https://cecilaki.github.io/guide/dox-theme/assets/images/atelier-impregnation-gouvernement-ouvert.png)
 
 ### 2 - Outils participatifs de co-création d'engagements du PAN
 
@@ -45,8 +47,7 @@ Cette fiche, élaborée d'abord en anglais par [l'organisation New-Yorkaise Rebo
 * Quel est le problème à traiter et sa faisabilité ?
 * Comment cet engagement sera-t-il mis en oeuvre ? Par qui ? Avec quel financement ? 
 
-Vous pouvez télécharger le fichier PDF de la fiche «Écriture collaborative d'engagements pour un gouvernement ouvert» à l’adresse suivante:
+Vous pouvez télécharger le fichier PDF de la fiche «Écriture collaborative d'engagements pour un gouvernement ouvert» [ici](https://cecilaki.github.io/guide/dox-theme/assets/images/FICHE-REDIGER-UN-ENGAGEMENT.pdf)
 
 ![fiche à télécharger](https://cecilaki.github.io/guide/dox-theme/assets/images/atelier-ecriture-engagement.png)
-
 
