@@ -15,7 +15,8 @@ hero:
 
 ## Ressources pratiques pour animer des ateliers 
 
-### Organiser un séminaire d'imprégnation et d'échanges sur le gouvernement ouvert 
+
+### 1 - Organiser un séminaire d'imprégnation et d'échanges sur le gouvernement ouvert 
 
 Si vous souhaitez vulgariser la notion et les principes de la gouvernance ouverte, mobiliser les acteurs autour de réflexions concrètes afin d'effectuer un plaidoyer en faveur du gouvernement ouvert, vous pouvez organiser un atelier collaboratif où les participants formeront des petits groupes de travail. 
 
@@ -29,3 +30,25 @@ pratiques connues en Afrique francophone ;
 * identifier et proposer des actions envisageables à court et à long terme, ainsi que les principaux acteurs impliqués et la méthode à adopter. 
 
 ![fiche à télécharger](../dox-theme/assets/images/atelier-impregnation-gouvernement-ouvert.png)
+
+### 2 - Organiser un atelier d'écriture d'engagements du PAN
+
+### Outils participatifs de co-création d'engagements 
+
+Comment aider les citoyens, le gouvernement, la société civile et le secteur privé à travailler ensemble une vision commune de la bonne gouvernance pour le 21ème siècle ?
+
+La fiche d'animation proposée est conçue spécifiquement pour les équipes de travail engagées dans l'adhésion du pays au PGO, pour aider au passage de la consultation à l’élaboration des engagements. Idéalement avant de se lancer dans l'écriture des engagements, le processus de consultation publique est terminé.
+
+#### Méthodologie
+
+Cette fiche, élaborée d'abord en anglais par [l'organisation New-Yorkaise Reboot](https://reboot.org/2017/05/04/refine-prioritize-open-government-commitments-process-guide/), en partenariat avec la Fondation Hewlett, est destinée à l'animation d’ateliers, autour de questions telles que:
+
+* Pourquoi tel ou tel engagement est important ? Qu'est-ce qui a suscité un intérêt pour cet engagement ?
+* Quel est le problème à traiter et sa faisabilité ?
+* Comment cet engagement sera-t-il mis en oeuvre ? Par qui ? Avec quel financement ? 
+
+Vous pouvez télécharger le fichier PDF de la fiche «Écriture collaborative d'engagements pour un gouvernement ouvert» à l’adresse suivante:
+
+![fiche à télécharger](../guide/dox-theme/assets/images/atelier-impregnation-gouvernement-ouvert.png)
+
+
