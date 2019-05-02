@@ -17,8 +17,8 @@ hero:
           style: filled # Choose style: "filled" or "bordered"
           icon: book-open # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
         - label: Pourquoi ce guide 
-          url: https://cecilaki.github.io/guide/pourquoi-ce-guide.md
-          external_url: true
+          url: /pourquoi-ce-guide.md
+          external_url: false
           style: bordered
           icon: globe
     download_link: # Set small download link placed below buttons
@@ -34,7 +34,7 @@ features:
               - title: Tunisie - Informini, plateforme de demande d’accès à l’information 
                 description: La plateforme Informini permet de faire une demande d’accès simplifiée à des informations détenues par une organisation publique tunisienne.
                 url: https://cecilaki.github.io/guide/documentation/tunisie-informini-plateforme-acces-information/
-                external_url: true
+                external_url: false
                 icon: box # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
               - title: Maroc - De l’adoption à la mise en œuvre de la loi d'accès à l'information
                 description: L’expérience marocaine est un cas exemplaire de par la consultation permanente de la société civile tout au long du processus de construction de la loi d’accès à l’information.
