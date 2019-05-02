@@ -1,7 +1,7 @@
 ---
 # Page settings
 layout: ressources-single # Choose layout: "default", "homepage" or "documentation-archive"
-title: Ressources complémentaires # Define a title of your page
+title: Droit d’accès à l’information # Define a title of your page
 description: Retrouvez ici les présentations proposées durant le séminaire, ainsi que les liens web vers les outils, projets et ressources qui ont été mentionnées lors des discussions. # Define a description of your page
 keywords: # Define keywords for search engines
 order: 1 # Define order of this page in list of all documentation documents
