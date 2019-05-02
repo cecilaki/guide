@@ -28,4 +28,4 @@ La fiche d'animation proposée ici prévoit que chaque groupe de travail puisse 
 pratiques connues en Afrique francophone ; 
 * identifier et proposer des actions envisageables à court et à long terme, ainsi que les principaux acteurs impliqués et la méthode à adopter. 
 
-![fiche à télécharger](/assets/images/atelier-impregnation-gouvernement-ouvert.png)
+![fiche à télécharger](../assets/images/atelier-impregnation-gouvernement-ouvert.png)
