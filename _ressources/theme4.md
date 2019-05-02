@@ -1,7 +1,7 @@
 ---
 # Page settings
 layout: ressources-single # Choose layout: "default", "homepage" or "documentation-archive"
-title: Nouveaux cadres de participation citoyenne # Define a title of your page
+title: Plaidoyer pour le gouvernement ouvert # Define a title of your page
 description: Découvrez les guides et recommandations de l'OCDE, le guide du Gouvernement ouvert pour les sceptiques du PGO ou encore le guide de l'open gov pour les municipalités en Tunisie # Define a description of your page
 keywords: # Define keywords for search engines
 order: 4 # Define order of this page in list of all documentation documents
