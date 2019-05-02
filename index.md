@@ -34,12 +34,17 @@ features:
               - title: Tunisie - Informini, plateforme de demande d’accès à l’information 
                 description: La plateforme Informini permet de faire une demande d’accès simplifiée à des informations détenues par une organisation publique tunisienne.
                 url: https://cecilaki.github.io/guide/documentation/tunisie-informini-plateforme-acces-information/
+                external_url: true
                 icon: box # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
               - title: Maroc - De l’adoption à la mise en œuvre de la loi d'accès à l'information
                 description: L’expérience marocaine est un cas exemplaire de par la consultation permanente de la société civile tout au long du processus de construction de la loi d’accès à l’information.
+                url: https://cecilaki.github.io/guide/documentation/maroc-loi-acces-information/
+                external_url: true
                 icon: edit
               - title: Senegal — Pour une loi spécifique d'accès à l'information
                 description: Bien qu’étant un droit consacré par la constitution sénégalaise, l’accès à l’information ne fait pas l’objet d’une loi spécifique dans le pays.
+                url: https://cecilaki.github.io/guide/documentation/senegal-rendre-effectif-droit-acces-information/
+                external_url: true
                 icon: eye
         - title: Theme 2 - Transparence et bonne gouvernance financière
           description: La publication des documents fondamentaux relatifs à la dépense publique et leur mise à jour régulière constituent les éléments de base d'un système budgétaire responsable, transparent et ouvert. Il s’agit d’un des critères d’éligibilité essentiel pour l’adhésion au PGO.
@@ -55,16 +60,12 @@ features:
                 icon: monitor
     footer: # Set features section footer variables
         title: Ressources complémentaires
-        description: Outils d'animation, presentations PPT, liens utiles, retrouvez ici toutes les ressources pour compléter votre lecture du guide des bonnes pratiques.
+        description: Retrouvez dans cette partie toutes les ressources évoquées et partagées pendant le séminaire (présentations PowerPoint, liens utiles, rapports, documents, outils..) ainsi que des outils d'animation, et le livret du participant.
         buttons: # Add buttons below, there are examples with all available options
             - label: Voir les ressources
-              url: http://example.com
+              url: https://cecilaki.github.io/guide/ressources/
               external_url: true # Set to "false" if you're pointing to inner page
               style: filled # Choose style: "filled" or "bordered"
-              icon: # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
-            - label: Button — Bordered
-              url: /documentation
-              external_url: false
-              style: bordered
-              icon:
+              icon: # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com 
+              
 ---
