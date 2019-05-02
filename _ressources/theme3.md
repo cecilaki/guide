@@ -2,7 +2,7 @@
 # Page settings
 layout: ressources-single # Choose layout: "default", "homepage" or "documentation-archive"
 title: Nouveaux cadres de participation citoyenne # Define a title of your page
-description: Retrouvez ici les présentations proposées durant le séminaire, ainsi que les liens web vers les outils, projets et ressources qui ont été mentionnées lors des discussions. # Define a description of your page
+description: Retrouvez ici le Présimètre, les différents outils de participation citoyenne, les exemples ainsi que les comptes-rendus des Forums Open d'Etat. # Define a description of your page
 keywords: # Define keywords for search engines
 order: 3 # Define order of this page in list of all documentation documents
 
