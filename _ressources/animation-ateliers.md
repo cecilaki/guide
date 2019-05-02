@@ -2,8 +2,7 @@
 # Page settings
 layout: ressources-single # Choose layout: "default", "homepage" or "documentation-archive"
 title: Animer des ateliers # Define a title of your page
-description: Vous souhaitez organiser et animer des ateliers afin de sensibiliser et mobiliser un groupe de personnes au gouvernement ouvert et à l’adhésion au PGO, ou pour co-construire et co-rédiger des engagements de votre Plan d’Action National ? 
-Voici quelques ressources, trames d’atelier et supports d'animation qui pourront vous être utile. # Define a description of your page
+description: Vous souhaitez organiser et animer des ateliers afin de sensibiliser et mobiliser un groupe de personnes au gouvernement ouvert et à l’adhésion au PGO, ou pour co-construire et co-rédiger des engagements de votre Plan d’Action National. Voici quelques ressources, trames d’atelier et supports d'animation qui pourront vous être utile. # Define a description of your page
 keywords: # Define keywords for search engines
 order: 6 # Define order of this page in list of all documentation documents
 
