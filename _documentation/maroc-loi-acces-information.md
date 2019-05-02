@@ -27,26 +27,25 @@ L’expérience marocaine est un cas exemplaire de par la consultation permanent
 5. Mise en place d’une Commission du Droit d’Accès à l’Information
 
 ## Principaux enseignements  
-Inscrire le droit d’accès à l’information dans la constitution peut contribuer à enclencher le processus d’élaboration d’une loi sur le droit d’accès à l’information
-Il est essentiel d’associer la société civile aux différentes étapes du processus  et de prévoir des consultations du public sur la loi
-Il est essentiel de prévoir dans la loi une procédure d’accès à l’information et les voies de recours précises, claires et définissant des délais de réponses précis
-L’élaboration et l’adoption d’une loi d’accès à l’information a permis au Maroc de faire une demande d’adhésion au PGO
+* Inscrire le droit d’accès à l’information dans la constitution peut contribuer à enclencher le processus d’élaboration d’une loi sur le droit d’accès à l’information
+* Il est essentiel d’associer la société civile aux différentes étapes du processus  et de prévoir des consultations du public sur la loi
+* Il est essentiel de prévoir dans la loi une procédure d’accès à l’information et les voies de recours précises, claires et définissant des délais de réponses précis
+* L’élaboration et l’adoption d’une loi d’accès à l’information a permis au Maroc de faire une demande d’adhésion au PGO
 
 ## Bonnes pratiques et écueils à éviter 
 
- * Bien prendre en compte les contraintes d’application, la volonté
-   politique et les capacités administratives réelles en s’engageant
+ * Bien prendre en compte les contraintes d’application, la volonté politique et les capacités administratives réelles en s’engageant
    dans les différentes étapes  
-  * Ne pas prévoir une liste d'exceptions
-   trop importantes qui risquerait de vider de son effectivité le droit
-   d’accès à l’information  
-  * Assurer les moyens financiers et humains du
-   droit d’accès à l’information et de ses modalités d'exercice 
+  * Ne pas prévoir une liste d'exceptions trop importantes qui risquerait de vider de son effectivité le droit
+   d’accès à l’information
+  * Assurer les moyens financiers et humains du droit d’accès à l’information et de ses modalités d'exercice 
   * Donner des garanties sur la protection des données personnelles 
   * Se référer aux normes et standards internationaux en matière d’accès à l’information
 
 ## Contact
 **Hatim MOURADI** 
+<!-- -->
 Chef de la division de l’innovation et des programmes de modernisation.
+<!-- -->
 Ministère de la Fonction Publique et de la Modernisation de l’Administration du Maroc. 
 
