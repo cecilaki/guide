@@ -1,8 +1,8 @@
 ---
 # Page settings
 layout: ressources-single # Choose layout: "default", "homepage" or "documentation-archive"
-title: Associer l’innovation # Define a title of your page
-description: Découvrez les guides et recommandations de l'OCDE, le guide du Gouvernement ouvert pour les sceptiques du PGO ou encore le guide de l'open gov pour les municipalités en Tunisie # Define a description of your page
+title: Associer l’innovation pour renforcer les capacités # Define a title of your page
+description: Retrouvez la liste des différents hubs d'innovation en AFrique francophone mentionnés lors du séminaire, ainsi que le programme Français Entrepreneurs d'Intéret Général # Define a description of your page
 keywords: # Define keywords for search engines
 order: 5 # Define order of this page in list of all documentation documents
 
