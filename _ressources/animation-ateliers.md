@@ -17,5 +17,15 @@ hero:
 
 ### Oganiser un séminaire d'imprégnation et d'échanges sur le gouvernement ouvert 
 
+Si vous souhaitez vulgariser la notion et les principes de la gouvernance ouverte, mobiliser les acteurs autour de réflexions concrètes afin d'effectuer un plaidoyer en faveur du gouvernement ouvert, vous pouvez organiser un atelier collaboratif où les participants formeront des petits groupes de travail. 
 
+#### Méthodologie
 
+La fiche d'animation proposée ici prévoit que chaque groupe de travail puisse : 
+
+* faire un état des lieux sur le gouvernement ouvert (en incluant les acquis à capitaliser, les pratiques observables, les goulots d’étranglement, etc...) ; 
+* identifier et mettre en exergue les expériences et les cas de bonnes 
+pratiques connues en Afrique francophone ; 
+* identifier et proposer des actions envisageables à court et à long terme, ainsi que les principaux acteurs impliqués et la méthode à adopter. 
+
+![fiche à télécharger](/assets/images/atelier-impregnation-gouvernement-ouvert.png)
