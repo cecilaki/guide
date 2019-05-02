@@ -7,7 +7,7 @@ order: 3 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
-    title: Maroc - Loi sur le Droit d’accès à l’information : de l’adoption à la mise en œuvre
+    title: Maroc - Loi sur le Droit d’accès à l’information, de l’adoption à la mise en œuvre
     text: Étapes, bonnes pratiques et enseignements
     
 ---
