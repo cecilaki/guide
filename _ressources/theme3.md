@@ -35,10 +35,9 @@ Les démarches de participation citoyenne, site de l’administration française
 * France : Lui Président [https://www.luipresident.fr/](https://www.luipresident.fr/)
 * Bénin : Le Talonmètre [https://talonmetre.bj](https://talonmetre.bj)
 * Nigéria : Buharimeter  [http://www.buharimeter.ng/](http://www.buharimeter.ng/)
+* Plateforme de consultation publique Open Gov en Côte d’Ivoire : [https://cp.ogp.gouv.ci](https://cp.ogp.gouv.ci)
 
-#### Plateforme de consultation publique Open Gov en Côte d’Ivoire : [https://cp.ogp.gouv.ci](https://cp.ogp.gouv.ci)
-
-### Autres formes de dialogue entre élus et citoyens :
+### Autres formes de dialogue entre élus et citoyens
 
 #### Dialogue Citoyen 
 Émission TV diffusé sur la chaîne Radiodiffusion Télévision du Burkina (RTB) qui a pour objectif de stimuler le dialogue des personnalités politiques (chef d'État, Ministres..) avec les citoyens, au cours d'une session de questions/réponses : [https://www.rtb.bf/tag/dialogue-citoyen/](https://www.rtb.bf/tag/dialogue-citoyen/)
@@ -51,22 +50,29 @@ Site web : [chikaya.ma](http://chikaya.ma)
 Le portail d’e-participation publique est un portail conçu par le gouvernement tunisien pour répondre aux aspirations citoyennes à plus d’implication et d’engagement dans le processus de décision publique et à la consécration des principes de la démocratie participative. Le portail de participation publique en ligne est dédié aux consultations publiques, aux idées et aux débats publics.
  [http://fr.e-participation.tn/](http://www.eparticipation.tn/)
 
-### France : comptes rendus détaillés et thématiques traitées lors des Forums Open d’Etat
+### Forums Open d’Etat
+Comptes rendus détaillés et thématiques traitées lors des 6 forums de l'année 2018-2019. 
 
-#### Forum n°1 : [co-construisons le Forum du gouvernement ouvert](https://www.etalab.gouv.fr/gouvernementouvert-retour-sur-le-lancement-des-forums-open-detat). 
+#### Forum n°1 
+[**co-construisons le Forum du gouvernement ouvert**](https://www.etalab.gouv.fr/gouvernementouvert-retour-sur-le-lancement-des-forums-open-detat). 
 Ce premier événement a permis de réaliser un Manifeste, cadre de dialogue collectif.
 
-#### Forum n°2 : [Publier en open data les données du répertoire des représentants d’intérêts](https://www.etalab.gouv.fr/opengov-lumiere-sur-les-donnees-du-repertoire-des-representants-dinterets-retour-sur-le-forum-open-detat-2) 
-Avec la Haute Autorité pour la Transparence de la Vie Publique.
+#### Forum n°2  
+[**Publier en open data les données du répertoire des représentants d’intérêts**](https://www.etalab.gouv.fr/opengov-lumiere-sur-les-donnees-du-repertoire-des-representants-dinterets-retour-sur-le-forum-open-detat-2) 
+Avec la Haute Autorité pour la Transparence de la Vie Publique, le forum a permis d'établir plusieurs points de sortie sur l'utilisation des données du répertoire : assister les assistants parlementaires dans la qualification des contacts avec les représentants d’intérêts, permettre à des chercheurs l’impact des actions de lobbying sur l’élaboration des lois, donner aux associations la possibilité de s’unir pour mener des actions communes.
 
-#### Forum n°3 : [Science Ouverte](https://www.etalab.gouv.fr/comment-generaliser-lacces-ouvert-a-la-recherche-retour-sur-le-forum-open-detat-3-ouvrons-la-science) 
+#### Forum n°3 
+[**Science Ouverte**](https://www.etalab.gouv.fr/comment-generaliser-lacces-ouvert-a-la-recherche-retour-sur-le-forum-open-detat-3-ouvrons-la-science) 
 avec le Ministère de l’Enseignement Supérieur et de la Recherche. Organisé à Toulouse et faisant suite au [plan d’action national pour la science ouverte](http://m.enseignementsup-recherche.gouv.fr/cid132529/le-plan-national-pour-la-science-ouverte-les-resultats-de-la-recherche-scientifique-ouverts-a-tous-sans-entrave-sans-delai-sans-paiement.html), le forum était inscrit comme événement satellite de l’Euroscience Open Forum, la plus grande rencontre interdisciplinaire sur la science et l’innovation en Europe.
 
-#### Forum n°4 : Data.gouv.fr et [les algorithmes à l’épreuve de la médiation numérique](https://www.etalab.gouv.fr/data-gouv-fr-et-les-algorithmes-a-lepreuve-de-la-mediation-numerique-retour-sur-le-forum-open-detat-4). 
+#### Forum n°4 
+Data.gouv.fr et [**les algorithmes à l’épreuve de la médiation numérique**](https://www.etalab.gouv.fr/data-gouv-fr-et-les-algorithmes-a-lepreuve-de-la-mediation-numerique-retour-sur-le-forum-open-detat-4). 
 Le forum s’est tenu à Nantes lors des rencontres Numérique en Commun[s] propulsées par la [Mission Société Numérique](https://societenumerique.gouv.fr/) de l’agence du Numérique et de [la Mednum, la coopérative des acteurs de la médiation numérique](https://lamednum.coop/). L’inclusion de ce forum Open d’Etat au programme de [Numérique en Commun[s]](https://www.numerique-en-commun.fr/) visait à s’appuyer sur la contribution des professionnels de la médiation numérique pour répondre à ces enjeux.
 
-#### Forum n°5 : [l’ouverture des données essentielles de la commande publique](https://www.etalab.gouv.fr/transparence-de-la-commande-publique-des-donnees-aux-politiques-dachat-quels-usages). 
+#### Forum n°5 
+[**l’ouverture des données essentielles de la commande publique**](https://www.etalab.gouv.fr/transparence-de-la-commande-publique-des-donnees-aux-politiques-dachat-quels-usages). 
 Le forum avait pour ambition de présenter au public l’obligation de publication des données essentielles de la commande publique (les DECP) en open data, les récents développements d’outils facilitant leur lecture, les opportunités d’usages qui peuvent en être faits par des acteurs du public, du privé et du secteur associatif.
 
-#### Forum n°6 : [Renforcer la transparence et la redevabilité de l'aide publique au développement](https://forum.etalab.gouv.fr/t/appel-a-commentaires-forum-open-d-etat-6-compte-rendu-detaille/4411)
+#### Forum n°6 
+[**Renforcer la transparence et la redevabilité de l'aide publique au développement**](https://forum.etalab.gouv.fr/t/appel-a-commentaires-forum-open-d-etat-6-compte-rendu-detaille/4411)
 Ce Forum a réuni les administrations et la société civile travaillant sur l’aide publique au développement : le Ministère de l’Europe et des Affaires étrangères (MEAE), l’Organisation de coopération et de développement économiques (OCDE), des agents de l’AFD, et des associations telles que le Comité Catholique contre la Faim et pour le Développement (CCFD) ou OXFAM.
