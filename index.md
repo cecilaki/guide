@@ -17,7 +17,7 @@ hero:
           style: filled # Choose style: "filled" or "bordered"
           icon: book-open # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
         - label: Pourquoi ce guide 
-          url: https://cecilaki.github.io/guide/pourquoi-ce-guide/
+          url: pourquoi-ce-guide/
           external_url: false
           style: bordered
           icon: globe
