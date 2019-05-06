@@ -28,7 +28,7 @@
 									{% endif %}
 									{% if item.title or item.description %}
 										<div class="c-feature-card__content">
-											<h4 class="c-feature-card__title">{{ item.title }}</h4>
+											<h4 class="c-feature-card__title"><a href="{{ page.features.row.grid.url }}">{{ item.title }}</a></h4>
 											<p>{{ item.description }}</p>
 										</div><!-- /.c-featured-card__content -->
 									{% endif %}
