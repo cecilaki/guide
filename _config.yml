@@ -12,10 +12,10 @@ dox:
             - item_name: Accueil
               item_url: /
             - item_name: Ressources
-              item_url: ressources
+              item_url: /ressources
         cta:
             label: Guide
-            url: /guide/documentation
+            url: /documentation
             icon: folder # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
     footer:
         logo:
