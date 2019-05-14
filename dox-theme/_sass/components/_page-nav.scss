@@ -18,18 +18,9 @@
 			color: $color-primary;
 		}
 
-		&::before,
 		&::after {
 			content: '';
 			display: block;
-		}
-
-		&::before {
-			width: .5rem;
-			height: 100%;
-			position: absolute;
-			bottom: calc(100% - 1rem);
-			left: 0;
 		}
 
 		&::after {
@@ -43,15 +34,8 @@
 		}
 
 		&.is-active {
-			&::before,
 			&::after {
 				background-color: $color-primary;
-			}
-		}
-
-		&:first-child {
-			&::before {
-				display: none;
 			}
 		}
 	}
